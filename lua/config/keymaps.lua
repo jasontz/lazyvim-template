@@ -3,6 +3,7 @@
 -- Add any additional keymaps here
 
 vim.keymap.set("v", "gy", '"+y', { desc = "Copy context to system clipboard" })
+vim.keymap.set("n", "<leader>fv", "<cmd>Neotree reveal<cr>", { desc = "Reveal the current file" })
 
 -- Dial
 vim.keymap.set("n", "<leader>di", function()
