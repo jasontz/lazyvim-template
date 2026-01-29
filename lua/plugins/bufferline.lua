@@ -11,7 +11,7 @@ return {
           reveal = { "close" },
         },
         numbers = "ordinal",
-        tab_size = 20,
+        tab_size = 30,
         max_prefix_length = 20,
       },
     })
