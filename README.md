@@ -6,4 +6,5 @@ Refer to the [documentation](https://lazyvim.github.io/installation) to get star
 # installation
 
 git clone <git@github.com>:jasontz/lazyvim-template.git  ~/.config/nvim
+
 git clone <https://github.com/jasontz/lazyvim-template.git>  ~/.config/nvim
